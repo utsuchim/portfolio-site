@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="min-h-screen flex items-center justify-center px-4 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-gray-900 dark:to-gray-800">
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-          Hi, I'm Utsuchim!
+          Hi, I&apos;m Utsuchim!
         </h1>
         <p className="text-xl md:text-2xl text-gray-700 dark:text-gray-300 mb-8">
           XRエンジニア | AIエンジニア | WEBエンジニア | UI/UXデザイン
